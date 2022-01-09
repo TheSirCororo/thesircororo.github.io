@@ -1,6 +1,6 @@
 ## Welcome to TheSirCororo's site
 
-I am Java/Kotlin Junior Developer. My name is Artem. I live in Russia, Pskovskaya oblast'.
+I am Java/Kotlin Junior Developer. My name is Artem. I live in Russia, Pskovskaya oblast'. I am 14.
 
 ### My job specification
 
