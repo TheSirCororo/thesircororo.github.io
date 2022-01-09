@@ -9,3 +9,5 @@ I can write code with:
 - KTOR Kotlin Web Framework
 - KOTLIN language
 - EXPOSED JetBrains Kotlin Database Framework
+- Bukkit/Spigot/Paper API
+- NMS developing
