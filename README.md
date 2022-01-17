@@ -11,3 +11,7 @@ I can write code with:
 - EXPOSED JetBrains Kotlin Database Framework
 - Bukkit/Spigot/Paper API
 - NMS developing
+
+Github: https://github.com/TheSirCororo
+Discord: TheSirCororo#6513
+VK: https://vk.com/cororo2021
